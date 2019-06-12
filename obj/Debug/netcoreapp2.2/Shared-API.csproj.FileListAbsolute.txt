@@ -1,0 +1,14 @@
+C:\Users\nsammy\Documents\Shared-API\bin\Debug\netcoreapp2.2\Shared-API.deps.json
+C:\Users\nsammy\Documents\Shared-API\bin\Debug\netcoreapp2.2\Shared-API.runtimeconfig.json
+C:\Users\nsammy\Documents\Shared-API\bin\Debug\netcoreapp2.2\Shared-API.runtimeconfig.dev.json
+C:\Users\nsammy\Documents\Shared-API\bin\Debug\netcoreapp2.2\Shared-API.dll
+C:\Users\nsammy\Documents\Shared-API\bin\Debug\netcoreapp2.2\Shared-API.pdb
+C:\Users\nsammy\Documents\Shared-API\obj\Debug\netcoreapp2.2\Shared-API.csprojAssemblyReference.cache
+C:\Users\nsammy\Documents\Shared-API\obj\Debug\netcoreapp2.2\Shared-API.csproj.CoreCompileInputs.cache
+C:\Users\nsammy\Documents\Shared-API\obj\Debug\netcoreapp2.2\Shared-API.RazorAssemblyInfo.cache
+C:\Users\nsammy\Documents\Shared-API\obj\Debug\netcoreapp2.2\Shared-API.RazorAssemblyInfo.cs
+C:\Users\nsammy\Documents\Shared-API\obj\Debug\netcoreapp2.2\Shared-API.AssemblyInfoInputs.cache
+C:\Users\nsammy\Documents\Shared-API\obj\Debug\netcoreapp2.2\Shared-API.AssemblyInfo.cs
+C:\Users\nsammy\Documents\Shared-API\obj\Debug\netcoreapp2.2\Shared-API.RazorTargetAssemblyInfo.cache
+C:\Users\nsammy\Documents\Shared-API\obj\Debug\netcoreapp2.2\Shared-API.dll
+C:\Users\nsammy\Documents\Shared-API\obj\Debug\netcoreapp2.2\Shared-API.pdb
